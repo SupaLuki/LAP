@@ -1,0 +1,9 @@
+DHCP - https://dev.to/oaamine/dns-active-directory-and-setting-up-a-quick-homelab-using-oracles-virtualbox-de-2pb
+WEBMIN - https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04
+Apache, PHP - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04-de
+VNC - https://buyzero.de/blogs/news/wie-kann-ich-realvnc-mit-einem-raspberry-pi-nutzen-remote-desktop
+Samba - https://ubuntu.com/tutorials/install-and-configure-samba#1-overview
+Cifs -https://installati.one/ubuntu/20.04/cifs-utils/
+
+
+
